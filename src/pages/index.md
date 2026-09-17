@@ -20,3 +20,5 @@ When you donate to charity, do you know how much of your money reaches its desti
 <span class="cromido-display">CroMiDo</span> steps in to help out. We use mobile technology to create transparency, allowing you to donate small sums directly to the people who need it most. With one click you can make someone’s day on the other side of the world!
 
 </div>
+
+<div style="text-align: center;"> . . . </div>
